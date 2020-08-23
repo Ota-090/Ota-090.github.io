@@ -1,3 +1,19 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Wenbo Shon</h1>
+      <p><b>Postgraduate from Case Western Reserve University</b></p>
+      <p><b>Weatherhead School of Management</b></p>
+      <p><b>wxs336@case.edu</b></p>
+      
+    </td>
+    <td width="25%">
+      <img src="/SHON.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 ### Personal Information
 
 #### Wenbo Shon
